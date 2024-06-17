@@ -1,0 +1,157 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 24px;
+}
+
+.block {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.form {
+	margin-top: 50px;
+    text-align: center;
+}
+
+.circles {
+	width: 1100px;
+	height: 200px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+	perspective: 1000px;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border: 15px solid;
+    border-radius: 50px;
+    display: inline-block;
+    vertical-align: middle;
+    transform-origin: bottom;
+}
+
+.circle:nth-child(1) {
+	top: 0;
+	left: 0px;
+
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 0ms;
+}
+.circle:nth-child(2) {
+	top: 50px;
+	left: 100px;
+ 
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 100ms;
+}
+.circle:nth-child(3) {
+	top: 100px;
+	left: 200px;
+
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 200ms;
+}
+
+.circle:nth-child(4) {
+	top: 50px;
+	left: 300px;
+
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 300ms;
+}
+.circle:nth-child(5) {
+	top: 0;
+	left: 400px;
+
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 400ms;
+}
+.circle:nth-child(6) {
+	top: 0;
+	left: 500px;
+
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 500ms;
+}
+.circle:nth-child(7) {
+	top: 50px;
+	left: 600px;
+
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 600ms;
+}
+.circle:nth-child(8) {
+	top: 100px;
+	left: 700px;
+
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 700ms;
+}
+.circle:nth-child(9) {
+	top: 50px;
+	left: 800px;
+
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 800ms;
+}
+.circle:nth-child(10) {
+	top: 0;
+	left: 900px;
+
+    animation-name: circle_animation;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 900ms;
+    
+}
+
+@keyframes circle_animation {
+    0% {
+        transform: translateY(0%);  
+    }
+    50% {
+        transform: translateY(100%);  
+    }   
+    100% {
+        transform: translateY(0%);
+    }           
+}
+ 
+
