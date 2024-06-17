@@ -1,0 +1,166 @@
+30.03.2024 2:17:53 champFactory created
+30.03.2024 2:17:53 Factory spartak created
+30.03.2024 2:17:53 Factory torpedo created
+30.03.2024 2:23:45 cupFactory created
+30.03.2024 2:23:45 Factory spartak created
+30.03.2024 2:23:45 Factory torpedo created
+30.03.2024 2:23:46 method <torPoints> called
+30.03.2024 2:23:47 method <torGoals> called
+30.03.2024 2:23:48 program finished
+30.03.2024 2:24:26 cupFactory created
+30.03.2024 2:24:26 Factory spartak created
+30.03.2024 2:24:26 Factory torpedo created
+30.03.2024 2:24:27 method <torPoints> called
+30.03.2024 2:24:28 Facade class created
+30.03.2024 2:24:28 method <derbi> called
+30.03.2024 2:24:29 program finished
+
+30.03.2024 2:24:32 cupFactory created
+30.03.2024 2:24:32 Factory spartak created
+30.03.2024 2:24:32 Factory torpedo created
+30.03.2024 2:24:33 method <torPoints> called
+30.03.2024 2:24:33 Facade class created
+30.03.2024 2:24:33 method <derbi> called
+30.03.2024 2:24:34 program finished
+
+30.03.2024 2:25:16 program started. log created
+30.03.2024 2:25:18 champFactory created
+30.03.2024 2:25:18 Factory spartak created
+30.03.2024 2:25:18 Factory torpedo created
+30.03.2024 2:25:19 method <fcsmGoals> called
+30.03.2024 2:25:19 method <torPoints> called
+30.03.2024 2:25:20 method <torGoals> called
+30.03.2024 2:25:20 method <fcsmPoints> called
+30.03.2024 2:25:21 Facade class created
+30.03.2024 2:25:21 method <derbi> called
+30.03.2024 2:25:22 program finished
+
+30.03.2024 2:26:42 program started. log created
+30.03.2024 2:26:42 cupFactory created
+30.03.2024 2:26:43 Factory spartak created
+30.03.2024 2:26:43 Factory torpedo created
+30.03.2024 2:26:43 method   <torGoals>      called
+30.03.2024 2:26:44 method   <fcsmPoints>    called
+30.03.2024 2:26:44 method   <torPoints>     called
+30.03.2024 2:26:45 Facade class created
+30.03.2024 2:26:45 method   <derbi>         called
+30.03.2024 2:26:46 method   <fcsmGoals>     called
+30.03.2024 2:26:47 program finished
+
+30.03.2024 2:45:37 program started. log created
+30.03.2024 2:45:43 cupFactory created
+30.03.2024 2:45:43 Factory spartak created
+30.03.2024 2:45:43 Factory torpedo created
+30.03.2024 2:45:44 method   <torPoints>     called
+30.03.2024 2:45:45 program finished
+
+02.04.2024 0:21:29 program started. log created
+02.04.2024 0:21:33 champFactory created
+02.04.2024 0:21:33 Factory spartak created
+02.04.2024 0:21:33 Factory torpedo created
+02.04.2024 0:21:36 Facade class created
+02.04.2024 0:21:36 method   <derbi>         called
+02.04.2024 0:25:08 program started. log created
+02.04.2024 0:25:13 champFactory created
+02.04.2024 0:25:14 Factory spartak created
+02.04.2024 0:25:14 Factory torpedo created
+02.04.2024 0:25:15 program finished
+
+02.04.2024 2:44:03 program started. log created
+02.04.2024 2:44:07 cupFactory created
+02.04.2024 2:44:07 Factory spartak created
+02.04.2024 2:44:07 Factory torpedo created
+02.04.2024 2:44:10 program finished
+
+02.04.2024 2:44:13 program started. log created
+02.04.2024 2:44:39 cupFactory created
+02.04.2024 2:44:39 Factory spartak created
+02.04.2024 2:44:39 Factory torpedo created
+02.04.2024 2:44:43 method   <fcsmGoals>     called
+02.04.2024 2:44:45 method   <fcsmPoints>    called
+02.04.2024 2:44:48 method   <torGoals>      called
+02.04.2024 2:44:49 method   <torPoints>     called
+02.04.2024 2:44:49 Facade class created
+02.04.2024 2:44:49 method   <derbi>         called
+02.04.2024 2:44:56 program finished
+
+02.04.2024 2:45:39 program started. log created
+02.04.2024 2:45:41 cupFactory created
+02.04.2024 2:45:41 Factory spartak created
+02.04.2024 2:45:41 Factory torpedo created
+02.04.2024 2:45:42 method   <fcsmGoals>     called
+02.04.2024 2:45:43 method   <fcsmPoints>    called
+02.04.2024 2:46:10 method   <torGoals>      called
+02.04.2024 2:46:11 method   <torPoints>     called
+02.04.2024 2:46:33 Facade class created
+02.04.2024 2:46:33 method   <derbi>         called
+02.04.2024 2:46:35 program finished
+
+02.04.2024 2:51:19 program started. log created
+02.04.2024 2:51:20 champFactory created
+02.04.2024 2:51:20 Factory spartak created
+02.04.2024 2:51:20 Factory torpedo created
+02.04.2024 2:51:22 method   <fcsmGoals>     called
+02.04.2024 2:51:23 method   <fcsmPoints>    called
+02.04.2024 2:52:17 method   <torGoals>      called
+02.04.2024 2:52:18 method   <torPoints>     called
+02.04.2024 2:52:55 Facade class created
+02.04.2024 2:52:55 method   <derbi>         called
+02.04.2024 2:52:56 program finished
+
+02.04.2024 2:53:36 program started. log created
+02.04.2024 2:53:37 cupFactory created
+02.04.2024 2:53:37 Factory spartak created
+02.04.2024 2:53:37 Factory torpedo created
+02.04.2024 2:53:38 method   <fcsmGoals>     called
+02.04.2024 2:53:39 method   <fcsmPoints>    called
+02.04.2024 2:53:39 method   <torGoals>      called
+02.04.2024 2:53:40 method   <torPoints>     called
+02.04.2024 2:55:03 program finished
+
+02.04.2024 2:55:15 program started. log created
+02.04.2024 2:55:29 cupFactory created
+02.04.2024 2:55:29 Factory spartak created
+02.04.2024 2:55:29 Factory torpedo created
+02.04.2024 2:55:30 program finished
+
+02.04.2024 19:05:42 program started. log created
+02.04.2024 19:05:43 cupFactory created
+02.04.2024 19:05:43 Factory spartak created
+02.04.2024 19:05:43 Factory torpedo created
+02.04.2024 19:06:20 method   <torGoals>      called
+02.04.2024 19:06:24 program finished
+
+02.04.2024 19:06:29 program started. log created
+02.04.2024 19:06:32 champFactory created
+02.04.2024 19:06:32 Factory spartak created
+02.04.2024 19:06:32 Factory torpedo created
+02.04.2024 19:06:34 Facade class created
+02.04.2024 19:06:34 method   <derbi>         called
+02.04.2024 19:06:35 program finished
+
+02.04.2024 20:03:00 program started. log created
+02.04.2024 20:08:51 cupFactory created
+02.04.2024 20:08:51 Factory spartak created
+02.04.2024 20:08:51 Factory torpedo created
+02.04.2024 20:09:00 Facade class created
+02.04.2024 20:09:00 method   <derbi>         called
+02.04.2024 20:09:04 method   <fcsmGoals>     called
+02.04.2024 20:09:23 method   <fcsmPoints>    called
+02.04.2024 20:09:24 method   <fcsmGoals>     called
+02.04.2024 20:09:26 method   <torGoals>      called
+02.04.2024 20:09:27 method   <torPoints>     called
+02.04.2024 20:10:55 program finished
+
+02.04.2024 20:11:01 program started. log created
+02.04.2024 20:11:02 champFactory created
+02.04.2024 20:11:02 Factory spartak created
+02.04.2024 20:11:02 Factory torpedo created
+02.04.2024 20:11:02 method   <fcsmGoals>     called
+02.04.2024 20:11:14 method   <fcsmPoints>    called
+02.04.2024 20:11:18 method   <torGoals>      called
+02.04.2024 20:11:19 method   <torPoints>     called
+02.04.2024 20:11:22 Facade class created
+02.04.2024 20:11:22 method   <derbi>         called
+02.04.2024 20:11:56 program finished
+
