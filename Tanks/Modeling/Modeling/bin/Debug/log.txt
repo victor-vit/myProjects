@@ -1,0 +1,982 @@
+28.05.2024 0:44:51 program started. log created
+28.05.2024 0:45:49 program started. log created
+28.05.2024 0:46:16 program started. log created
+28.05.2024 1:17:09 program started. log created
+28.05.2024 1:22:01 program started. log created
+28.05.2024 1:30:45 program started. log created
+28.05.2024 1:30:48 А-20 is explored for 10000 experience points
+28.05.2024 1:30:48 А-20 is bought for 1000 RUB
+28.05.2024 1:40:58 program started. log created
+28.05.2024 1:41:04 А-20 is explored for 10000 experience points
+28.05.2024 1:41:04 А-20 is bought for 1000 RUB
+28.05.2024 1:41:28 program started. log created
+28.05.2024 1:41:31 А-20 is explored for 10000 experience points
+28.05.2024 1:41:31 А-20 is bought for 1000 RUB
+28.05.2024 1:44:57 program started. log created
+28.05.2024 1:45:00 А-20 is explored for 10000 experience points
+28.05.2024 1:45:00 А-20 is bought for 1000 RUB
+28.05.2024 1:45:00 Optics installed on А-20
+28.05.2024 1:45:03 Т-34 is explored for 10000 experience points
+28.05.2024 1:45:03 Т-34 is bought for 1000 RUB
+28.05.2024 1:45:03 Support equipment installed on Т-34
+28.05.2024 1:54:55 program started. log created
+28.05.2024 1:54:59 А-20 is explored for 10000 experience points
+28.05.2024 1:54:59 А-20 is bought for 1000 RUB
+28.05.2024 1:54:59 Optics installed on А-20. TankLightUp = 50
+28.05.2024 1:55:02 Т-34 is explored for 10000 experience points
+28.05.2024 1:55:02 Т-34 is bought for 1000 RUB
+28.05.2024 1:55:02 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 1:55:05 МТ-25 is explored for 30000 experience points
+28.05.2024 1:55:05 МТ-25 is bought for 10000 RUB
+28.05.2024 1:55:05 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 1:55:05 МТ-25 made light up shot
+28.05.2024 1:55:12 КВ-1 is explored for 10000 experience points
+28.05.2024 1:55:12 КВ-1 is bought for 1000 RUB
+28.05.2024 1:55:12 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:05:03 program started. log created
+28.05.2024 2:05:06 А-20 is explored for 10000 experience points
+28.05.2024 2:05:06 А-20 is bought for 1000 RUB
+28.05.2024 2:05:06 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:05:07 Т-34 is explored for 10000 experience points
+28.05.2024 2:05:07 Т-34 is bought for 1000 RUB
+28.05.2024 2:05:07 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:05:08 КВ-1 is explored for 10000 experience points
+28.05.2024 2:05:08 КВ-1 is bought for 1000 RUB
+28.05.2024 2:05:08 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:05:09 МТ-25 is explored for 30000 experience points
+28.05.2024 2:05:09 МТ-25 is bought for 10000 RUB
+28.05.2024 2:05:09 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:05:09 МТ-25 made light up shot
+28.05.2024 2:05:10 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:05:10 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:05:10 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:05:10 Т-34-85 made support shot
+28.05.2024 2:05:12 Т-43 is explored for 30000 experience points
+28.05.2024 2:05:12 Т-43 is bought for 10000 RUB
+28.05.2024 2:05:12 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 2:05:14 КВ-1С is explored for 30000 experience points
+28.05.2024 2:05:14 КВ-1С is bought for 10000 RUB
+28.05.2024 2:05:14 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 2:05:14 КВ-1С made powerful shot
+28.05.2024 2:05:20 КВ-2 is explored for 30000 experience points
+28.05.2024 2:05:20 КВ-2 is bought for 10000 RUB
+28.05.2024 2:05:20 Armor installed on КВ-2. TankArmor = 75
+28.05.2024 2:17:04 program started. log created
+28.05.2024 2:17:08 А-20 is explored for 10000 experience points
+28.05.2024 2:17:08 А-20 is bought for 1000 RUB
+28.05.2024 2:17:08 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:17:09 МТ-25 is explored for 30000 experience points
+28.05.2024 2:17:09 МТ-25 is bought for 10000 RUB
+28.05.2024 2:17:09 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:17:09 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:17:09 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:17:09 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:17:09 ЛТТБ made light up shot
+28.05.2024 2:17:11 ЛТГ is explored for 80000 experience points
+28.05.2024 2:17:11 ЛТГ is bought for 40000 RUB
+28.05.2024 2:17:11 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 2:17:11 ЛТГ made light up shot
+28.05.2024 2:17:28 program started. log created
+28.05.2024 2:17:30 А-20 is explored for 10000 experience points
+28.05.2024 2:17:30 А-20 is bought for 1000 RUB
+28.05.2024 2:17:30 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:17:31 МТ-25 is explored for 30000 experience points
+28.05.2024 2:17:31 МТ-25 is bought for 10000 RUB
+28.05.2024 2:17:31 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:17:32 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:17:32 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:17:32 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:17:32 ЛТТБ made light up shot
+28.05.2024 2:17:40 ЛТГ is explored for 80000 experience points
+28.05.2024 2:17:40 ЛТГ is bought for 40000 RUB
+28.05.2024 2:17:40 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 2:17:40 ЛТГ made light up shot
+28.05.2024 2:17:40 ЛТГ made light up shot
+28.05.2024 2:18:41 program started. log created
+28.05.2024 2:18:44 А-20 is explored for 10000 experience points
+28.05.2024 2:18:44 А-20 is bought for 1000 RUB
+28.05.2024 2:18:44 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:18:44 МТ-25 is explored for 30000 experience points
+28.05.2024 2:18:44 МТ-25 is bought for 10000 RUB
+28.05.2024 2:18:44 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:18:44 МТ-25 made light up shot
+28.05.2024 2:18:45 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:18:45 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:18:45 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:18:45 ЛТТБ made light up shot
+28.05.2024 2:18:45 ЛТГ is explored for 80000 experience points
+28.05.2024 2:18:45 ЛТГ is bought for 40000 RUB
+28.05.2024 2:18:45 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 2:18:45 ЛТГ made light up shot
+28.05.2024 2:18:51 Т-34 is explored for 10000 experience points
+28.05.2024 2:18:51 Т-34 is bought for 1000 RUB
+28.05.2024 2:18:51 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:18:54 КВ-1 is explored for 10000 experience points
+28.05.2024 2:18:54 КВ-1 is bought for 1000 RUB
+28.05.2024 2:18:54 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:18:56 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:18:56 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:18:56 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:18:56 Т-34-85 made support shot
+28.05.2024 2:19:02 Т-43 is explored for 30000 experience points
+28.05.2024 2:19:02 Т-43 is bought for 10000 RUB
+28.05.2024 2:19:02 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 2:19:02 Т-43 made support shot
+28.05.2024 2:19:07 КВ-2 is explored for 30000 experience points
+28.05.2024 2:19:07 КВ-2 is bought for 10000 RUB
+28.05.2024 2:19:10 КВ-1С is explored for 30000 experience points
+28.05.2024 2:19:10 КВ-1С is bought for 10000 RUB
+28.05.2024 2:23:21 program started. log created
+28.05.2024 2:23:29 А-20 is explored for 10000 experience points
+28.05.2024 2:23:29 А-20 is bought for 1000 RUB
+28.05.2024 2:23:29 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:23:30 Т-34 is explored for 10000 experience points
+28.05.2024 2:23:30 Т-34 is bought for 1000 RUB
+28.05.2024 2:23:30 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:23:30 КВ-1 is explored for 10000 experience points
+28.05.2024 2:23:30 КВ-1 is bought for 1000 RUB
+28.05.2024 2:23:30 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:23:32 МТ-25 is explored for 30000 experience points
+28.05.2024 2:23:32 МТ-25 is bought for 10000 RUB
+28.05.2024 2:23:32 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:23:32 МТ-25 made light up shot
+28.05.2024 2:23:33 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:23:33 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:23:33 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:23:33 ЛТТБ made light up shot
+28.05.2024 2:23:33 ЛТТБ made light up shot
+28.05.2024 2:23:34 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:23:34 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:23:34 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:23:35 КВ-1С is explored for 30000 experience points
+28.05.2024 2:23:35 КВ-1С is bought for 10000 RUB
+28.05.2024 2:23:35 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 2:23:35 КВ-1С made powerful shot
+28.05.2024 2:23:37 ИС is explored for 80000 experience points
+28.05.2024 2:23:37 ИС is bought for 40000 RUB
+28.05.2024 2:23:37 Armor installed on ИС. TankArmor = 100
+28.05.2024 2:23:37 ИС made powerful shot
+28.05.2024 2:23:37 ИС made powerful shot
+28.05.2024 2:26:00 program started. log created
+28.05.2024 2:26:05 А-20 is explored for 10000 experience points
+28.05.2024 2:26:05 А-20 is bought for 1000 RUB
+28.05.2024 2:26:05 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:26:05 МТ-25 is explored for 30000 experience points
+28.05.2024 2:26:05 МТ-25 is bought for 10000 RUB
+28.05.2024 2:26:05 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:26:06 ЛТГ is explored for 80000 experience points
+28.05.2024 2:26:06 ЛТГ is bought for 40000 RUB
+28.05.2024 2:26:06 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 2:26:06 ЛТГ made light up shot
+28.05.2024 2:26:08 Т-34 is explored for 10000 experience points
+28.05.2024 2:26:08 Т-34 is bought for 1000 RUB
+28.05.2024 2:26:08 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:26:09 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:26:09 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:26:09 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:26:11 КВ-1 is explored for 10000 experience points
+28.05.2024 2:26:11 КВ-1 is bought for 1000 RUB
+28.05.2024 2:26:11 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:26:12 КВ-1С is explored for 30000 experience points
+28.05.2024 2:26:12 КВ-1С is bought for 10000 RUB
+28.05.2024 2:26:12 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 2:26:12 КВ-1С made powerful shot
+28.05.2024 2:26:13 ИС is explored for 80000 experience points
+28.05.2024 2:26:13 ИС is bought for 40000 RUB
+28.05.2024 2:26:13 Armor installed on ИС. TankArmor = 100
+28.05.2024 2:26:13 ИС made powerful shot
+28.05.2024 2:26:17 you lose
+
+28.05.2024 2:26:17 program finished
+
+28.05.2024 2:26:30 program started. log created
+28.05.2024 2:26:33 you lose
+
+28.05.2024 2:26:33 program finished
+
+28.05.2024 2:26:40 program started. log created
+28.05.2024 2:26:45 Т-34 is explored for 10000 experience points
+28.05.2024 2:26:45 Т-34 is bought for 1000 RUB
+28.05.2024 2:26:45 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:26:46 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:26:46 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:26:46 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:26:47 Т-43 is explored for 30000 experience points
+28.05.2024 2:26:47 Т-43 is bought for 10000 RUB
+28.05.2024 2:26:47 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 2:26:47 Т-43 made support shot
+28.05.2024 2:26:48 КВ-1 is explored for 10000 experience points
+28.05.2024 2:26:48 КВ-1 is bought for 1000 RUB
+28.05.2024 2:26:48 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:26:48 КВ-2 is explored for 30000 experience points
+28.05.2024 2:26:48 КВ-2 is bought for 10000 RUB
+28.05.2024 2:26:48 Armor installed on КВ-2. TankArmor = 75
+28.05.2024 2:26:49 КВ-1С is explored for 30000 experience points
+28.05.2024 2:26:49 КВ-1С is bought for 10000 RUB
+28.05.2024 2:26:49 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 2:26:49 КВ-1С made powerful shot
+28.05.2024 2:26:52 КВ-3 is explored for 80000 experience points
+28.05.2024 2:26:52 КВ-3 is bought for 40000 RUB
+28.05.2024 2:26:52 Armor installed on КВ-3. TankArmor = 100
+28.05.2024 2:26:52 КВ-3 made powerful shot
+28.05.2024 2:26:55 А-20 is explored for 10000 experience points
+28.05.2024 2:26:55 А-20 is bought for 1000 RUB
+28.05.2024 2:26:55 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:26:56 МТ-25 is explored for 30000 experience points
+28.05.2024 2:26:56 МТ-25 is bought for 10000 RUB
+28.05.2024 2:26:56 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:26:59 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:26:59 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:27:03 you lose
+
+28.05.2024 2:27:03 program finished
+
+28.05.2024 2:27:09 program started. log created
+28.05.2024 2:27:12 А-20 is explored for 10000 experience points
+28.05.2024 2:27:12 А-20 is bought for 1000 RUB
+28.05.2024 2:27:12 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:27:13 МТ-25 is explored for 30000 experience points
+28.05.2024 2:27:13 МТ-25 is bought for 10000 RUB
+28.05.2024 2:27:13 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:27:13 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:27:13 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:27:13 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:27:13 ЛТТБ made light up shot
+28.05.2024 2:27:13 ЛТТБ made light up shot
+28.05.2024 2:27:14 ЛТГ is explored for 80000 experience points
+28.05.2024 2:27:14 ЛТГ is bought for 40000 RUB
+28.05.2024 2:27:14 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 2:27:14 ЛТГ made light up shot
+28.05.2024 2:27:14 ЛТГ made light up shot
+28.05.2024 2:27:14 Т-34 is explored for 10000 experience points
+28.05.2024 2:27:14 Т-34 is bought for 1000 RUB
+28.05.2024 2:27:14 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:27:16 КВ-1 is explored for 10000 experience points
+28.05.2024 2:27:16 КВ-1 is bought for 1000 RUB
+28.05.2024 2:27:16 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:27:18 КВ-2 is explored for 30000 experience points
+28.05.2024 2:27:18 КВ-2 is bought for 10000 RUB
+28.05.2024 2:27:18 Armor installed on КВ-2. TankArmor = 75
+28.05.2024 2:27:21 Т-43 is explored for 30000 experience points
+28.05.2024 2:27:21 Т-43 is bought for 10000 RUB
+28.05.2024 2:27:21 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 2:27:33 you win
+
+28.05.2024 2:27:33 program finished
+
+28.05.2024 2:27:57 program started. log created
+28.05.2024 2:28:01 А-20 is explored for 10000 experience points
+28.05.2024 2:28:01 А-20 is bought for 1000 RUB
+28.05.2024 2:28:01 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:28:01 МТ-25 is explored for 30000 experience points
+28.05.2024 2:28:01 МТ-25 is bought for 10000 RUB
+28.05.2024 2:28:01 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:28:02 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:28:02 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:28:02 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:28:02 ЛТТБ made light up shot
+28.05.2024 2:28:02 ЛТТБ made light up shot
+28.05.2024 2:28:02 ЛТГ is explored for 80000 experience points
+28.05.2024 2:28:02 ЛТГ is bought for 40000 RUB
+28.05.2024 2:28:02 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 2:28:02 ЛТГ made light up shot
+28.05.2024 2:28:02 ЛТГ made light up shot
+28.05.2024 2:28:11 you lose
+
+28.05.2024 2:28:11 program finished
+
+28.05.2024 2:28:53 program started. log created
+28.05.2024 2:28:57 Т-34 is explored for 10000 experience points
+28.05.2024 2:28:57 Т-34 is bought for 1000 RUB
+28.05.2024 2:28:57 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:28:57 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:28:57 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:28:57 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:28:58 Т-43 is explored for 30000 experience points
+28.05.2024 2:28:58 Т-43 is bought for 10000 RUB
+28.05.2024 2:28:58 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 2:28:58 Т-43 made support shot
+28.05.2024 2:28:59 А-20 is explored for 10000 experience points
+28.05.2024 2:28:59 А-20 is bought for 1000 RUB
+28.05.2024 2:28:59 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:29:00 МТ-25 is explored for 30000 experience points
+28.05.2024 2:29:00 МТ-25 is bought for 10000 RUB
+28.05.2024 2:29:00 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:29:00 МТ-25 made light up shot
+28.05.2024 2:29:01 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:29:01 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:29:01 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:29:01 ЛТТБ made light up shot
+28.05.2024 2:29:02 ЛТГ is explored for 80000 experience points
+28.05.2024 2:29:02 ЛТГ is bought for 40000 RUB
+28.05.2024 2:29:02 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 2:29:02 ЛТГ made light up shot
+28.05.2024 2:29:02 ЛТГ made light up shot
+28.05.2024 2:29:05 КВ-1 is explored for 10000 experience points
+28.05.2024 2:29:05 КВ-1 is bought for 1000 RUB
+28.05.2024 2:29:05 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:29:12 you lose
+
+28.05.2024 2:29:12 program finished
+
+28.05.2024 2:29:14 program started. log created
+28.05.2024 2:29:18 КВ-1 is explored for 10000 experience points
+28.05.2024 2:29:18 КВ-1 is bought for 1000 RUB
+28.05.2024 2:29:18 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:29:19 КВ-2 is explored for 30000 experience points
+28.05.2024 2:29:19 КВ-2 is bought for 10000 RUB
+28.05.2024 2:29:19 Armor installed on КВ-2. TankArmor = 75
+28.05.2024 2:29:22 А-20 is explored for 10000 experience points
+28.05.2024 2:29:22 А-20 is bought for 1000 RUB
+28.05.2024 2:29:22 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:29:22 МТ-25 is explored for 30000 experience points
+28.05.2024 2:29:22 МТ-25 is bought for 10000 RUB
+28.05.2024 2:29:22 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:29:23 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:29:23 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:29:23 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:29:23 ЛТТБ made light up shot
+28.05.2024 2:29:23 ЛТГ is explored for 80000 experience points
+28.05.2024 2:29:23 ЛТГ is bought for 40000 RUB
+28.05.2024 2:29:23 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 2:29:23 ЛТГ made light up shot
+28.05.2024 2:29:31 КВ-1С is explored for 30000 experience points
+28.05.2024 2:29:31 КВ-1С is bought for 10000 RUB
+28.05.2024 2:29:31 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 2:29:33 Т-34 is explored for 10000 experience points
+28.05.2024 2:29:33 Т-34 is bought for 1000 RUB
+28.05.2024 2:29:33 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:29:56 you win
+
+28.05.2024 2:29:56 program finished
+
+28.05.2024 2:31:01 program started. log created
+28.05.2024 2:31:05 Т-34 is explored for 10000 experience points
+28.05.2024 2:31:05 Т-34 is bought for 1000 RUB
+28.05.2024 2:31:05 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:31:05 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:31:05 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:31:05 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:31:05 Т-34-85 made support shot
+28.05.2024 2:31:07 А-20 is explored for 10000 experience points
+28.05.2024 2:31:07 А-20 is bought for 1000 RUB
+28.05.2024 2:31:07 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:31:08 МТ-25 is explored for 30000 experience points
+28.05.2024 2:31:08 МТ-25 is bought for 10000 RUB
+28.05.2024 2:31:08 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:31:08 КВ-1 is explored for 10000 experience points
+28.05.2024 2:31:08 КВ-1 is bought for 1000 RUB
+28.05.2024 2:31:08 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:31:10 КВ-1С is explored for 30000 experience points
+28.05.2024 2:31:10 КВ-1С is bought for 10000 RUB
+28.05.2024 2:31:10 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 2:31:11 ИС is explored for 80000 experience points
+28.05.2024 2:31:11 ИС is bought for 40000 RUB
+28.05.2024 2:31:11 Armor installed on ИС. TankArmor = 100
+28.05.2024 2:31:11 ИС made powerful shot
+28.05.2024 2:31:12 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:31:12 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:31:12 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:31:12 ЛТТБ made light up shot
+28.05.2024 2:31:35 you lose
+
+28.05.2024 2:31:35 program finished
+
+28.05.2024 2:39:28 program started. log created
+28.05.2024 2:39:39 Т-34 is explored for 10000 experience points
+28.05.2024 2:39:39 Т-34 is bought for 1000 RUB
+28.05.2024 2:39:39 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:39:42 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:39:42 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:39:42 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:39:42 Т-34-85 made support shot
+28.05.2024 2:39:43 Т-43 is explored for 30000 experience points
+28.05.2024 2:39:43 Т-43 is bought for 10000 RUB
+28.05.2024 2:39:43 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 2:39:43 Т-43 made support shot
+28.05.2024 2:39:43 А-20 is explored for 10000 experience points
+28.05.2024 2:39:43 А-20 is bought for 1000 RUB
+28.05.2024 2:39:43 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:39:44 КВ-1 is explored for 10000 experience points
+28.05.2024 2:39:44 КВ-1 is bought for 1000 RUB
+28.05.2024 2:39:44 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:39:45 КВ-2 is explored for 30000 experience points
+28.05.2024 2:39:45 КВ-2 is bought for 10000 RUB
+28.05.2024 2:39:45 Armor installed on КВ-2. TankArmor = 75
+28.05.2024 2:39:45 КВ-1С is explored for 30000 experience points
+28.05.2024 2:39:45 КВ-1С is bought for 10000 RUB
+28.05.2024 2:39:45 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 2:39:45 КВ-1С made powerful shot
+28.05.2024 2:39:46 МТ-25 is explored for 30000 experience points
+28.05.2024 2:39:46 МТ-25 is bought for 10000 RUB
+28.05.2024 2:39:46 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:39:46 МТ-25 made light up shot
+28.05.2024 2:39:47 ЛТТБ is explored for 80000 experience points
+28.05.2024 2:39:47 ЛТТБ is bought for 40000 RUB
+28.05.2024 2:39:47 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 2:39:47 ЛТТБ made light up shot
+28.05.2024 2:39:47 ЛТТБ made light up shot
+28.05.2024 2:39:49 ЛТГ is explored for 80000 experience points
+28.05.2024 2:39:49 ЛТГ is bought for 40000 RUB
+28.05.2024 2:39:58 you win
+
+28.05.2024 2:39:58 program finished
+
+28.05.2024 2:41:25 program started. log created
+28.05.2024 2:41:31 Т-34 is explored for 10000 experience points
+28.05.2024 2:41:31 Т-34 is bought for 1000 RUB
+28.05.2024 2:41:31 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:41:31 Т-43 is explored for 30000 experience points
+28.05.2024 2:41:31 Т-43 is bought for 10000 RUB
+28.05.2024 2:41:31 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 2:41:31 Т-43 made support shot
+28.05.2024 2:41:32 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:41:32 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:41:32 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:41:32 Т-34-85 made support shot
+28.05.2024 2:41:34 КВ-1 is explored for 10000 experience points
+28.05.2024 2:41:34 КВ-1 is bought for 1000 RUB
+28.05.2024 2:41:34 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:41:34 КВ-1С is explored for 30000 experience points
+28.05.2024 2:41:34 КВ-1С is bought for 10000 RUB
+28.05.2024 2:41:34 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 2:41:34 КВ-1С made powerful shot
+28.05.2024 2:41:36 КВ-3 is explored for 80000 experience points
+28.05.2024 2:41:36 КВ-3 is bought for 40000 RUB
+28.05.2024 2:41:36 Armor installed on КВ-3. TankArmor = 100
+28.05.2024 2:41:36 КВ-3 made powerful shot
+28.05.2024 2:41:36 КВ-3 made powerful shot
+28.05.2024 2:41:39 ИС is explored for 80000 experience points
+28.05.2024 2:41:39 ИС is bought for 40000 RUB
+28.05.2024 2:41:39 Armor installed on ИС. TankArmor = 100
+28.05.2024 2:41:39 ИС made powerful shot
+28.05.2024 2:41:39 ИС made powerful shot
+28.05.2024 2:41:40 КВ-2 is explored for 30000 experience points
+28.05.2024 2:41:40 КВ-2 is bought for 10000 RUB
+28.05.2024 2:41:51 you win
+
+28.05.2024 2:41:51 program finished
+
+28.05.2024 2:49:50 program started. log created
+28.05.2024 2:50:12 БТ-7 damage = 100
+28.05.2024 2:50:12 А-20 damage = 160
+28.05.2024 2:50:12 МТ-25 damage = 200
+28.05.2024 2:50:12 ЛТГ damage = 310
+28.05.2024 2:50:12 ЛТТБ damage = 310
+28.05.2024 2:50:12 КВ-1 damage = 200
+28.05.2024 2:50:12 КВ-1С damage = 400
+28.05.2024 2:50:12 КВ-2 damage = 560
+28.05.2024 2:50:12 КВ-3 damage = 450
+28.05.2024 2:50:12 ИС damage = 450
+28.05.2024 2:50:12 Т-34 damage = 160
+28.05.2024 2:50:12 Т-34-85 damage = 250
+28.05.2024 2:50:12 Т-43 damage = 250
+28.05.2024 2:50:24 you lose
+
+28.05.2024 2:50:24 program finished
+
+28.05.2024 2:51:10 program started. log created
+28.05.2024 2:51:14 БТ-7 damage = 100
+28.05.2024 2:51:14 А-20 damage = 160
+28.05.2024 2:51:14 МТ-25 damage = 200
+28.05.2024 2:51:14 ЛТГ damage = 310
+28.05.2024 2:51:14 ЛТТБ damage = 310
+28.05.2024 2:51:14 КВ-1 damage = 200
+28.05.2024 2:51:14 КВ-1С damage = 400
+28.05.2024 2:51:14 КВ-2 damage = 560
+28.05.2024 2:51:14 КВ-3 damage = 450
+28.05.2024 2:51:14 ИС damage = 450
+28.05.2024 2:51:14 Т-34 damage = 160
+28.05.2024 2:51:14 Т-34-85 damage = 250
+28.05.2024 2:51:14 Т-43 damage = 250
+28.05.2024 2:51:18 КВ-1 is explored for 10000 experience points
+28.05.2024 2:51:18 КВ-1 is bought for 1000 RUB
+28.05.2024 2:51:18 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 2:51:19 КВ-1С is explored for 30000 experience points
+28.05.2024 2:51:19 КВ-1С is bought for 10000 RUB
+28.05.2024 2:51:19 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 2:51:19 КВ-1С made powerful shot
+28.05.2024 2:51:19 КВ-2 is explored for 30000 experience points
+28.05.2024 2:51:19 КВ-2 is bought for 10000 RUB
+28.05.2024 2:51:19 Armor installed on КВ-2. TankArmor = 75
+28.05.2024 2:51:20 Т-34 is explored for 10000 experience points
+28.05.2024 2:51:20 Т-34 is bought for 1000 RUB
+28.05.2024 2:51:20 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 2:51:21 Т-43 is explored for 30000 experience points
+28.05.2024 2:51:21 Т-43 is bought for 10000 RUB
+28.05.2024 2:51:21 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 2:51:21 Т-43 made support shot
+28.05.2024 2:51:21 Т-34-85 is explored for 30000 experience points
+28.05.2024 2:51:21 Т-34-85 is bought for 10000 RUB
+28.05.2024 2:51:21 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 2:51:22 А-20 is explored for 10000 experience points
+28.05.2024 2:51:22 А-20 is bought for 1000 RUB
+28.05.2024 2:51:22 Optics installed on А-20. TankLightUp = 50
+28.05.2024 2:51:22 МТ-25 is explored for 30000 experience points
+28.05.2024 2:51:22 МТ-25 is bought for 10000 RUB
+28.05.2024 2:51:22 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 2:51:22 МТ-25 made light up shot
+28.05.2024 2:51:23 ИС is explored for 80000 experience points
+28.05.2024 2:51:23 ИС is bought for 40000 RUB
+28.05.2024 2:51:23 Armor installed on ИС. TankArmor = 100
+28.05.2024 2:51:23 ИС made powerful shot
+28.05.2024 2:51:25 КВ-3 is explored for 80000 experience points
+28.05.2024 2:51:25 КВ-3 is bought for 40000 RUB
+28.05.2024 2:51:29 you win
+
+28.05.2024 2:51:29 program finished
+
+28.05.2024 11:39:21 program started. log created
+28.05.2024 11:40:22 Т-34 is explored for 10000 experience points
+28.05.2024 11:40:22 Т-34 is bought for 1000 RUB
+28.05.2024 11:40:22 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 11:40:27 КВ-1 is explored for 10000 experience points
+28.05.2024 11:40:27 КВ-1 is bought for 1000 RUB
+28.05.2024 11:40:27 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 11:40:28 А-20 is explored for 10000 experience points
+28.05.2024 11:40:28 А-20 is bought for 1000 RUB
+28.05.2024 11:40:28 Optics installed on А-20. TankLightUp = 50
+28.05.2024 11:40:43 Т-34-85 is explored for 30000 experience points
+28.05.2024 11:40:43 Т-34-85 is bought for 10000 RUB
+28.05.2024 11:40:43 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 11:40:43 Т-34-85 made support shot
+28.05.2024 11:40:54 КВ-1С is explored for 30000 experience points
+28.05.2024 11:40:54 КВ-1С is bought for 10000 RUB
+28.05.2024 11:40:54 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 11:40:54 КВ-1С made powerful shot
+28.05.2024 11:40:57 КВ-2 is explored for 30000 experience points
+28.05.2024 11:40:57 КВ-2 is bought for 10000 RUB
+28.05.2024 11:40:57 Armor installed on КВ-2. TankArmor = 75
+28.05.2024 11:40:59 Т-43 is explored for 30000 experience points
+28.05.2024 11:40:59 Т-43 is bought for 10000 RUB
+28.05.2024 11:40:59 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 11:41:00 МТ-25 is explored for 30000 experience points
+28.05.2024 11:41:00 МТ-25 is bought for 10000 RUB
+28.05.2024 11:41:00 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 11:41:02 ЛТГ is explored for 80000 experience points
+28.05.2024 11:41:02 ЛТГ is bought for 40000 RUB
+28.05.2024 11:41:02 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 11:41:02 ЛТГ made light up shot
+28.05.2024 11:41:02 ЛТТБ is explored for 80000 experience points
+28.05.2024 11:41:02 ЛТТБ is bought for 40000 RUB
+28.05.2024 11:41:04 ИС is explored for 80000 experience points
+28.05.2024 11:41:04 ИС is bought for 40000 RUB
+28.05.2024 11:41:06 КВ-3 is explored for 80000 experience points
+28.05.2024 11:41:06 КВ-3 is bought for 40000 RUB
+28.05.2024 11:41:14 you win
+28.05.2024 11:41:14 program finished
+
+28.05.2024 19:16:24 program started. log created
+28.05.2024 19:16:38 БТ-7 damage = 100
+28.05.2024 19:16:38 А-20 damage = 160
+28.05.2024 19:16:38 МТ-25 damage = 200
+28.05.2024 19:16:38 ЛТГ damage = 310
+28.05.2024 19:16:38 ЛТТБ damage = 310
+28.05.2024 19:16:38 КВ-1 damage = 200
+28.05.2024 19:16:38 КВ-1С damage = 400
+28.05.2024 19:16:38 КВ-2 damage = 560
+28.05.2024 19:16:38 КВ-3 damage = 450
+28.05.2024 19:16:38 ИС damage = 450
+28.05.2024 19:16:38 Т-34 damage = 160
+28.05.2024 19:16:38 Т-34-85 damage = 250
+28.05.2024 19:16:38 Т-43 damage = 250
+28.05.2024 19:16:42 КВ-1 is explored for 10000 experience points
+28.05.2024 19:16:42 КВ-1 is bought for 1000 RUB
+28.05.2024 19:16:42 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 19:16:44 КВ-1С is explored for 30000 experience points
+28.05.2024 19:16:44 КВ-1С is bought for 10000 RUB
+28.05.2024 19:16:44 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 19:16:47 Т-34 is explored for 10000 experience points
+28.05.2024 19:16:47 Т-34 is bought for 1000 RUB
+28.05.2024 19:16:47 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 19:16:47 Т-34-85 is explored for 30000 experience points
+28.05.2024 19:16:47 Т-34-85 is bought for 10000 RUB
+28.05.2024 19:16:47 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 19:16:47 Т-34-85 made support shot
+28.05.2024 19:16:48 А-20 is explored for 10000 experience points
+28.05.2024 19:16:48 А-20 is bought for 1000 RUB
+28.05.2024 19:16:48 Optics installed on А-20. TankLightUp = 50
+28.05.2024 19:16:49 МТ-25 is explored for 30000 experience points
+28.05.2024 19:16:49 МТ-25 is bought for 10000 RUB
+28.05.2024 19:16:49 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 19:16:49 МТ-25 made light up shot
+28.05.2024 19:16:49 ЛТГ is explored for 80000 experience points
+28.05.2024 19:16:49 ЛТГ is bought for 40000 RUB
+28.05.2024 19:16:49 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 19:16:49 ЛТГ made light up shot
+28.05.2024 19:16:49 ЛТГ made light up shot
+28.05.2024 19:16:51 ИС is explored for 80000 experience points
+28.05.2024 19:16:51 ИС is bought for 40000 RUB
+28.05.2024 19:16:51 Armor installed on ИС. TankArmor = 100
+28.05.2024 19:16:51 ИС made powerful shot
+28.05.2024 19:16:51 ИС made powerful shot
+28.05.2024 19:16:57 you win
+28.05.2024 19:16:57 program finished
+
+28.05.2024 21:45:42 program started. log created
+28.05.2024 21:50:03 you lose
+28.05.2024 21:50:03 program finished
+
+28.05.2024 22:39:06 program started. log created
+28.05.2024 22:39:10 КВ-1 is explored for 10000 experience points
+28.05.2024 22:39:10 КВ-1 is bought for 1000 RUB
+28.05.2024 22:39:10 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 22:39:11 КВ-2 is explored for 30000 experience points
+28.05.2024 22:39:11 КВ-2 is bought for 10000 RUB
+28.05.2024 22:39:11 Armor installed on КВ-2. TankArmor = 75
+28.05.2024 22:39:11 КВ-2 GetCollect
+28.05.2024 22:39:15 КВ-1С is explored for 30000 experience points
+28.05.2024 22:39:15 КВ-1С is bought for 10000 RUB
+28.05.2024 22:39:15 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 22:39:15 Т-34 is explored for 10000 experience points
+28.05.2024 22:39:15 Т-34 is bought for 1000 RUB
+28.05.2024 22:39:15 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 22:39:15 Т-34-85 is explored for 30000 experience points
+28.05.2024 22:39:15 Т-34-85 is bought for 10000 RUB
+28.05.2024 22:39:15 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 22:39:16 Т-43 is explored for 30000 experience points
+28.05.2024 22:39:16 Т-43 is bought for 10000 RUB
+28.05.2024 22:39:16 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 22:39:17 А-20 is explored for 10000 experience points
+28.05.2024 22:39:17 А-20 is bought for 1000 RUB
+28.05.2024 22:39:17 Optics installed on А-20. TankLightUp = 50
+28.05.2024 22:39:17 МТ-25 is explored for 30000 experience points
+28.05.2024 22:39:17 МТ-25 is bought for 10000 RUB
+28.05.2024 22:39:17 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 22:39:18 ЛТГ is explored for 80000 experience points
+28.05.2024 22:39:18 ЛТГ is bought for 40000 RUB
+28.05.2024 22:39:18 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 22:39:18 ЛТГ made light up shot
+28.05.2024 22:39:24 КВ-3 is explored for 80000 experience points
+28.05.2024 22:39:24 КВ-3 is bought for 40000 RUB
+28.05.2024 22:39:30 you lose
+28.05.2024 22:39:30 program finished
+
+28.05.2024 23:46:10 program started. log created
+28.05.2024 23:47:15 А-20 is explored for 10000 experience points
+28.05.2024 23:47:15 А-20 is bought for 1000 RUB
+28.05.2024 23:47:15 Optics installed on А-20. TankLightUp = 50
+28.05.2024 23:47:16 Т-34 is explored for 10000 experience points
+28.05.2024 23:47:16 Т-34 is bought for 1000 RUB
+28.05.2024 23:47:16 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 23:47:16 КВ-1 is explored for 10000 experience points
+28.05.2024 23:47:16 КВ-1 is bought for 1000 RUB
+28.05.2024 23:47:16 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 23:47:18 КВ-1С is explored for 30000 experience points
+28.05.2024 23:47:18 КВ-1С is bought for 10000 RUB
+28.05.2024 23:47:18 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 23:47:19 МТ-25 is explored for 30000 experience points
+28.05.2024 23:47:19 МТ-25 is bought for 10000 RUB
+28.05.2024 23:47:19 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 23:47:19 МТ-25 made light up shot
+28.05.2024 23:47:19 ЛТГ is explored for 80000 experience points
+28.05.2024 23:47:19 ЛТГ is bought for 40000 RUB
+28.05.2024 23:47:19 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 23:47:19 ЛТГ made light up shot
+28.05.2024 23:47:20 Т-43 is explored for 30000 experience points
+28.05.2024 23:47:20 Т-43 is bought for 10000 RUB
+28.05.2024 23:47:20 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 23:47:20 Т-43 made support shot
+28.05.2024 23:47:21 ИС is explored for 80000 experience points
+28.05.2024 23:47:21 ИС is bought for 40000 RUB
+28.05.2024 23:47:21 Armor installed on ИС. TankArmor = 100
+28.05.2024 23:47:21 ИС made powerful shot
+28.05.2024 23:47:29 БТ-7 damage = 100
+28.05.2024 23:47:29 А-20 damage = 160
+28.05.2024 23:47:29 МТ-25 damage = 200
+28.05.2024 23:47:29 ЛТГ damage = 310
+28.05.2024 23:47:29 ЛТТБ damage = 310
+28.05.2024 23:47:29 КВ-1 damage = 200
+28.05.2024 23:47:29 КВ-1С damage = 400
+28.05.2024 23:47:29 КВ-2 damage = 560
+28.05.2024 23:47:29 КВ-3 damage = 450
+28.05.2024 23:47:29 ИС damage = 450
+28.05.2024 23:47:29 Т-34 damage = 160
+28.05.2024 23:47:29 Т-34-85 damage = 250
+28.05.2024 23:47:29 Т-43 damage = 250
+28.05.2024 23:47:39 you win
+28.05.2024 23:47:39 program finished
+
+28.05.2024 23:53:04 program started. log created
+28.05.2024 23:53:11 А-20 is explored for 10000 experience points
+28.05.2024 23:53:11 А-20 is bought for 1000 RUB
+28.05.2024 23:53:11 Optics installed on А-20. TankLightUp = 50
+28.05.2024 23:53:11 МТ-25 is explored for 30000 experience points
+28.05.2024 23:53:11 МТ-25 is bought for 10000 RUB
+28.05.2024 23:53:11 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 23:53:12 ЛТТБ is explored for 80000 experience points
+28.05.2024 23:53:12 ЛТТБ is bought for 40000 RUB
+28.05.2024 23:53:12 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 23:53:12 ЛТТБ made light up shot
+28.05.2024 23:53:12 ЛТТБ made light up shot
+28.05.2024 23:53:12 ЛТГ is explored for 80000 experience points
+28.05.2024 23:53:12 ЛТГ is bought for 40000 RUB
+28.05.2024 23:53:12 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 23:53:12 ЛТГ made light up shot
+28.05.2024 23:53:12 ЛТГ made light up shot
+28.05.2024 23:53:14 Т-34 is explored for 10000 experience points
+28.05.2024 23:53:14 Т-34 is bought for 1000 RUB
+28.05.2024 23:53:14 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 23:53:15 Т-43 is explored for 30000 experience points
+28.05.2024 23:53:15 Т-43 is bought for 10000 RUB
+28.05.2024 23:53:15 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 23:53:15 Т-34-85 is explored for 30000 experience points
+28.05.2024 23:53:15 Т-34-85 is bought for 10000 RUB
+28.05.2024 23:53:15 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 23:53:17 КВ-1 is explored for 10000 experience points
+28.05.2024 23:53:17 КВ-1 is bought for 1000 RUB
+28.05.2024 23:53:17 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 23:53:45 you lose
+28.05.2024 23:53:45 program finished
+
+28.05.2024 23:54:10 program started. log created
+28.05.2024 23:54:16 А-20 is explored for 10000 experience points
+28.05.2024 23:54:16 А-20 is bought for 1000 RUB
+28.05.2024 23:54:16 Optics installed on А-20. TankLightUp = 50
+28.05.2024 23:54:17 МТ-25 is explored for 30000 experience points
+28.05.2024 23:54:17 МТ-25 is bought for 10000 RUB
+28.05.2024 23:54:17 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 23:54:18 ЛТТБ is explored for 80000 experience points
+28.05.2024 23:54:18 ЛТТБ is bought for 40000 RUB
+28.05.2024 23:54:18 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 23:54:18 ЛТТБ made light up shot
+28.05.2024 23:54:18 ЛТТБ made light up shot
+28.05.2024 23:54:18 ЛТГ is explored for 80000 experience points
+28.05.2024 23:54:18 ЛТГ is bought for 40000 RUB
+28.05.2024 23:54:18 Optics installed on ЛТГ. TankLightUp = 100
+28.05.2024 23:54:18 ЛТГ made light up shot
+28.05.2024 23:54:18 ЛТГ made light up shot
+28.05.2024 23:54:19 Т-34 is explored for 10000 experience points
+28.05.2024 23:54:19 Т-34 is bought for 1000 RUB
+28.05.2024 23:54:19 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 23:54:19 Т-34-85 is explored for 30000 experience points
+28.05.2024 23:54:19 Т-34-85 is bought for 10000 RUB
+28.05.2024 23:54:19 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 23:54:20 Т-43 is explored for 30000 experience points
+28.05.2024 23:54:20 Т-43 is bought for 10000 RUB
+28.05.2024 23:54:20 Support equipment installed on Т-43. TankSupport = 75
+28.05.2024 23:54:21 КВ-1 is explored for 10000 experience points
+28.05.2024 23:54:21 КВ-1 is bought for 1000 RUB
+28.05.2024 23:54:21 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 23:54:37 you win
+28.05.2024 23:54:37 program finished
+
+28.05.2024 23:55:18 program started. log created
+28.05.2024 23:55:25 А-20 is explored for 10000 experience points
+28.05.2024 23:55:25 А-20 is bought for 1000 RUB
+28.05.2024 23:55:25 Optics installed on А-20. TankLightUp = 50
+28.05.2024 23:55:26 Т-34 is explored for 10000 experience points
+28.05.2024 23:55:26 Т-34 is bought for 1000 RUB
+28.05.2024 23:55:26 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 23:55:27 КВ-1 is explored for 10000 experience points
+28.05.2024 23:55:27 КВ-1 is bought for 1000 RUB
+28.05.2024 23:55:27 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 23:55:27 МТ-25 is explored for 30000 experience points
+28.05.2024 23:55:27 МТ-25 is bought for 10000 RUB
+28.05.2024 23:55:27 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 23:55:27 МТ-25 made light up shot
+28.05.2024 23:55:29 Т-34-85 is explored for 30000 experience points
+28.05.2024 23:55:29 Т-34-85 is bought for 10000 RUB
+28.05.2024 23:55:29 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 23:55:29 Т-34-85 made support shot
+28.05.2024 23:55:31 КВ-1С is explored for 30000 experience points
+28.05.2024 23:55:31 КВ-1С is bought for 10000 RUB
+28.05.2024 23:55:31 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 23:55:31 ИС is explored for 80000 experience points
+28.05.2024 23:55:31 ИС is bought for 40000 RUB
+28.05.2024 23:55:31 Armor installed on ИС. TankArmor = 100
+28.05.2024 23:55:31 ИС made powerful shot
+28.05.2024 23:55:32 ЛТТБ is explored for 80000 experience points
+28.05.2024 23:55:32 ЛТТБ is bought for 40000 RUB
+28.05.2024 23:55:32 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 23:55:32 ЛТТБ made light up shot
+28.05.2024 23:55:32 ЛТТБ made light up shot
+28.05.2024 23:56:10 БТ-7 damage = 100
+28.05.2024 23:56:10 А-20 damage = 160
+28.05.2024 23:56:10 МТ-25 damage = 200
+28.05.2024 23:56:10 ЛТГ damage = 310
+28.05.2024 23:56:10 ЛТТБ damage = 310
+28.05.2024 23:56:10 КВ-1 damage = 200
+28.05.2024 23:56:10 КВ-1С damage = 400
+28.05.2024 23:56:10 КВ-2 damage = 560
+28.05.2024 23:56:10 КВ-3 damage = 450
+28.05.2024 23:56:10 ИС damage = 450
+28.05.2024 23:56:10 Т-34 damage = 160
+28.05.2024 23:56:10 Т-34-85 damage = 250
+28.05.2024 23:56:10 Т-43 damage = 250
+28.05.2024 23:56:55 you lose
+28.05.2024 23:56:55 program finished
+
+28.05.2024 23:57:24 program started. log created
+28.05.2024 23:57:27 А-20 is explored for 10000 experience points
+28.05.2024 23:57:27 А-20 is bought for 1000 RUB
+28.05.2024 23:57:27 Optics installed on А-20. TankLightUp = 50
+28.05.2024 23:57:28 Т-34 is explored for 10000 experience points
+28.05.2024 23:57:28 Т-34 is bought for 1000 RUB
+28.05.2024 23:57:28 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 23:57:28 КВ-1 is explored for 10000 experience points
+28.05.2024 23:57:28 КВ-1 is bought for 1000 RUB
+28.05.2024 23:57:29 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 23:57:29 МТ-25 is explored for 30000 experience points
+28.05.2024 23:57:29 МТ-25 is bought for 10000 RUB
+28.05.2024 23:57:29 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 23:57:29 МТ-25 made light up shot
+28.05.2024 23:57:31 Т-34-85 is explored for 30000 experience points
+28.05.2024 23:57:31 Т-34-85 is bought for 10000 RUB
+28.05.2024 23:57:31 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 23:57:31 Т-34-85 made support shot
+28.05.2024 23:57:32 КВ-1С is explored for 30000 experience points
+28.05.2024 23:57:32 КВ-1С is bought for 10000 RUB
+28.05.2024 23:57:32 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 23:57:39 ЛТТБ is explored for 80000 experience points
+28.05.2024 23:57:39 ЛТТБ is bought for 40000 RUB
+28.05.2024 23:57:39 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 23:57:39 ЛТТБ made light up shot
+28.05.2024 23:57:39 ЛТТБ made light up shot
+28.05.2024 23:57:40 ИС is explored for 80000 experience points
+28.05.2024 23:57:40 ИС is bought for 40000 RUB
+28.05.2024 23:57:40 Armor installed on ИС. TankArmor = 100
+28.05.2024 23:57:40 ИС made powerful shot
+28.05.2024 23:57:45 ЛТГ is explored for 80000 experience points
+28.05.2024 23:57:45 ЛТГ is bought for 40000 RUB
+28.05.2024 23:57:55 you lose
+28.05.2024 23:57:55 program finished
+
+28.05.2024 23:58:18 program started. log created
+28.05.2024 23:58:24 А-20 is explored for 10000 experience points
+28.05.2024 23:58:24 А-20 is bought for 1000 RUB
+28.05.2024 23:58:24 Optics installed on А-20. TankLightUp = 50
+28.05.2024 23:58:25 Т-34 is explored for 10000 experience points
+28.05.2024 23:58:25 Т-34 is bought for 1000 RUB
+28.05.2024 23:58:25 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 23:58:25 КВ-1 is explored for 10000 experience points
+28.05.2024 23:58:25 КВ-1 is bought for 1000 RUB
+28.05.2024 23:58:25 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 23:58:26 МТ-25 is explored for 30000 experience points
+28.05.2024 23:58:26 МТ-25 is bought for 10000 RUB
+28.05.2024 23:58:26 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 23:58:27 КВ-1С is explored for 30000 experience points
+28.05.2024 23:58:27 КВ-1С is bought for 10000 RUB
+28.05.2024 23:58:27 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 23:58:27 Т-34-85 is explored for 30000 experience points
+28.05.2024 23:58:27 Т-34-85 is bought for 10000 RUB
+28.05.2024 23:58:27 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 23:58:27 Т-34-85 made support shot
+28.05.2024 23:58:28 ИС is explored for 80000 experience points
+28.05.2024 23:58:28 ИС is bought for 40000 RUB
+28.05.2024 23:58:28 Armor installed on ИС. TankArmor = 100
+28.05.2024 23:58:28 ИС made powerful shot
+28.05.2024 23:58:30 ЛТТБ is explored for 80000 experience points
+28.05.2024 23:58:30 ЛТТБ is bought for 40000 RUB
+28.05.2024 23:58:30 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 23:58:30 ЛТТБ made light up shot
+28.05.2024 23:58:33 you lose
+28.05.2024 23:58:33 program finished
+
+28.05.2024 23:58:35 program started. log created
+28.05.2024 23:58:40 КВ-1 is explored for 10000 experience points
+28.05.2024 23:58:40 КВ-1 is bought for 1000 RUB
+28.05.2024 23:58:40 Armor installed on КВ-1. TankArmor = 50
+28.05.2024 23:58:40 Т-34 is explored for 10000 experience points
+28.05.2024 23:58:40 Т-34 is bought for 1000 RUB
+28.05.2024 23:58:40 Support equipment installed on Т-34. TankSupport = 50
+28.05.2024 23:58:41 А-20 is explored for 10000 experience points
+28.05.2024 23:58:41 А-20 is bought for 1000 RUB
+28.05.2024 23:58:41 Optics installed on А-20. TankLightUp = 50
+28.05.2024 23:58:42 Т-34-85 is explored for 30000 experience points
+28.05.2024 23:58:42 Т-34-85 is bought for 10000 RUB
+28.05.2024 23:58:42 Support equipment installed on Т-34-85. TankSupport = 75
+28.05.2024 23:58:42 Т-34-85 made support shot
+28.05.2024 23:58:43 КВ-1С is explored for 30000 experience points
+28.05.2024 23:58:43 КВ-1С is bought for 10000 RUB
+28.05.2024 23:58:43 Armor installed on КВ-1С. TankArmor = 75
+28.05.2024 23:58:44 ИС is explored for 80000 experience points
+28.05.2024 23:58:44 ИС is bought for 40000 RUB
+28.05.2024 23:58:44 Armor installed on ИС. TankArmor = 100
+28.05.2024 23:58:44 ИС made powerful shot
+28.05.2024 23:58:44 МТ-25 is explored for 30000 experience points
+28.05.2024 23:58:44 МТ-25 is bought for 10000 RUB
+28.05.2024 23:58:44 Optics installed on МТ-25. TankLightUp = 75
+28.05.2024 23:58:45 ЛТТБ is explored for 80000 experience points
+28.05.2024 23:58:45 ЛТТБ is bought for 40000 RUB
+28.05.2024 23:58:45 Optics installed on ЛТТБ. TankLightUp = 100
+28.05.2024 23:58:45 ЛТТБ made light up shot
+28.05.2024 23:58:45 ЛТТБ made light up shot
+28.05.2024 23:59:06 you win
+28.05.2024 23:59:06 program finished
+
+28.05.2024 23:59:44 program started. log created
+29.05.2024 0:00:41 КВ-1 is explored for 10000 experience points
+29.05.2024 0:00:41 КВ-1 is bought for 1000 RUB
+29.05.2024 0:00:41 Armor installed on КВ-1. TankArmor = 50
+29.05.2024 0:00:42 КВ-2 is explored for 30000 experience points
+29.05.2024 0:00:42 КВ-2 is bought for 10000 RUB
+29.05.2024 0:00:42 Armor installed on КВ-2. TankArmor = 75
+29.05.2024 0:00:42 КВ-2 GetCollect
+29.05.2024 0:00:44 КВ-1С is explored for 30000 experience points
+29.05.2024 0:00:44 КВ-1С is bought for 10000 RUB
+29.05.2024 0:00:44 Armor installed on КВ-1С. TankArmor = 75
+29.05.2024 0:00:46 КВ-3 is explored for 80000 experience points
+29.05.2024 0:00:46 КВ-3 is bought for 40000 RUB
+29.05.2024 0:00:46 Armor installed on КВ-3. TankArmor = 100
+29.05.2024 0:00:46 КВ-3 made powerful shot
+29.05.2024 0:00:46 КВ-3 made powerful shot
+29.05.2024 0:00:47 Т-34 is explored for 10000 experience points
+29.05.2024 0:00:47 Т-34 is bought for 1000 RUB
+29.05.2024 0:00:47 Support equipment installed on Т-34. TankSupport = 50
+29.05.2024 0:00:48 Т-34-85 is explored for 30000 experience points
+29.05.2024 0:00:48 Т-34-85 is bought for 10000 RUB
+29.05.2024 0:00:48 Support equipment installed on Т-34-85. TankSupport = 75
+29.05.2024 0:00:49 Т-43 is explored for 30000 experience points
+29.05.2024 0:00:49 Т-43 is bought for 10000 RUB
+29.05.2024 0:00:49 Support equipment installed on Т-43. TankSupport = 75
+29.05.2024 0:00:51 ИС is explored for 80000 experience points
+29.05.2024 0:00:51 ИС is bought for 40000 RUB
+29.05.2024 0:00:52 А-20 is explored for 10000 experience points
+29.05.2024 0:00:52 А-20 is bought for 1000 RUB
+29.05.2024 0:00:52 Optics installed on А-20. TankLightUp = 50
+29.05.2024 0:00:53 МТ-25 is explored for 30000 experience points
+29.05.2024 0:00:53 МТ-25 is bought for 10000 RUB
+29.05.2024 0:00:53 Optics installed on МТ-25. TankLightUp = 75
+29.05.2024 0:00:53 МТ-25 made light up shot
+29.05.2024 0:01:11 you lose
+29.05.2024 0:01:11 program finished
+
+29.05.2024 0:01:14 program started. log created
+29.05.2024 0:01:18 КВ-1 is explored for 10000 experience points
+29.05.2024 0:01:18 КВ-1 is bought for 1000 RUB
+29.05.2024 0:01:18 Armor installed on КВ-1. TankArmor = 50
+29.05.2024 0:01:19 КВ-2 is explored for 30000 experience points
+29.05.2024 0:01:19 КВ-2 is bought for 10000 RUB
+29.05.2024 0:01:19 Armor installed on КВ-2. TankArmor = 75
+29.05.2024 0:01:19 КВ-2 GetCollect
+29.05.2024 0:01:48 Т-34 is explored for 10000 experience points
+29.05.2024 0:01:48 Т-34 is bought for 1000 RUB
+29.05.2024 0:01:48 Support equipment installed on Т-34. TankSupport = 50
+29.05.2024 0:01:48 Т-34-85 is explored for 30000 experience points
+29.05.2024 0:01:48 Т-34-85 is bought for 10000 RUB
+29.05.2024 0:01:48 Support equipment installed on Т-34-85. TankSupport = 75
+29.05.2024 0:01:48 Т-34-85 made support shot
+29.05.2024 0:01:49 Т-43 is explored for 30000 experience points
+29.05.2024 0:01:49 Т-43 is bought for 10000 RUB
+29.05.2024 0:01:49 Support equipment installed on Т-43. TankSupport = 75
+29.05.2024 0:01:49 Т-43 made support shot
+29.05.2024 0:01:50 КВ-1С is explored for 30000 experience points
+29.05.2024 0:01:50 КВ-1С is bought for 10000 RUB
+29.05.2024 0:01:50 Armor installed on КВ-1С. TankArmor = 75
+29.05.2024 0:01:52 ИС is explored for 80000 experience points
+29.05.2024 0:01:52 ИС is bought for 40000 RUB
+29.05.2024 0:01:52 Armor installed on ИС. TankArmor = 100
+29.05.2024 0:01:52 ИС made powerful shot
+29.05.2024 0:01:53 А-20 is explored for 10000 experience points
+29.05.2024 0:01:53 А-20 is bought for 1000 RUB
+29.05.2024 0:01:53 Optics installed on А-20. TankLightUp = 50
+29.05.2024 0:01:54 МТ-25 is explored for 30000 experience points
+29.05.2024 0:01:54 МТ-25 is bought for 10000 RUB
+29.05.2024 0:01:54 Optics installed on МТ-25. TankLightUp = 75
+29.05.2024 0:01:54 МТ-25 made light up shot
+29.05.2024 0:01:57 ЛТТБ is explored for 80000 experience points
+29.05.2024 0:01:57 ЛТТБ is bought for 40000 RUB
+29.05.2024 0:02:11 you win
+29.05.2024 0:02:11 program finished
+

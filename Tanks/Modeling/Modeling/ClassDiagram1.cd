@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Modeling.Log">
+    <Position X="6.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.BT7">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAABAAABAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeling.KV1">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAACAAAAACCAAAEAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeling.T34">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABAAAAAAAAACAAAAAAAAAAEAAEAAAAAAAAgAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeling.A20">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAIAACAAAAABAAAAEAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeling.KV1S">
+    <Position X="6.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.KV2">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.T3485">
+    <Position X="12.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.T43">
+    <Position X="14.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.MT25">
+    <Position X="1.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.KV3">
+    <Position X="5.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.IS">
+    <Position X="8" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.LTTB">
+    <Position X="0.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.LTG">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.MyDivideByZeroException">
+    <Position X="8.25" Y="10.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Modeling.ITank">
+    <Position X="15.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modeling.IExplore">
+    <Position X="15.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modeling.IBuy">
+    <Position X="13.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modeling.IArmor">
+    <Position X="11.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modeling.ISupport">
+    <Position X="13.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modeling.ILightUp">
+    <Position X="11.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
