@@ -1,0 +1,171 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+    
+    <head>
+        <meta charset="utf-8">
+		<title>А-07-19 Белоус Виктор Вариант 1</title>
+
+        <style>
+            /*границы таблицы*/
+            /*--------------------------------*/
+            table {
+                border-collapse: collapse;
+                border: 3px solid black;
+                padding: 15px;
+            }
+
+            td{
+                border: 3px solid black;
+                padding: 15px;
+            }
+
+            h1{
+                margin-left: 200px;
+            }
+
+            
+            /*--------------------------------*/
+            #sendbutton{
+                text-align: center;
+            }
+
+            /*размер полей для текстового ввода*/
+            /*--------------------------------*/           
+
+            #count{
+                width:  35px;
+            }
+
+            /*--------------------------------*/
+        </style>
+
+		
+
+    </head>
+    
+    <body>
+        <!-- подключаем файл php-->
+        <form action="lab2.php" method="post">
+
+        <h1>Ремонт офисной техники</h1>
+        <!--Представим выходную форму в виде таблицы -->
+        <table>   
+            
+            <tr>
+                <!-- Часть 1. Сведения о технике -->
+                <td rowspan="2">
+                    <p>
+                        Модель техники:
+                        <input type = "text" name = "model" required>
+                    </p>
+                    <p>
+                        Кол-во сломанной техники:
+                        <input type = "text" name = "count" id = "count" required>
+                    </p>
+
+                    Марка оборудования:<br>
+                    <select name = "marka">
+                        <option>Apple</option>
+                        <option>Samsung</option>
+                        <option>Huawei</option>
+                    </select>
+
+                    <p>
+                        Комментарий:<br> 
+                        <textarea name="comment" cols="40" rows="6" required></textarea>
+                    </p>
+                </td>
+
+                <!-- Часть 2. Адрес компании -->
+                <td>
+                    <p>
+                        Ваш адрес:
+                        <input type = "text" name = "adress" required>
+                    </p>
+                    <p>
+                        Название компании:
+                        <input type = "text" name = "company" required>
+                    </p>
+                </td>
+            </tr>
+
+            <tr>  
+                <!-- Часть 3. Где куплено оборудование -->          
+                <td>
+                    Оборудование куплено:<br>
+                    <input type="radio" id="contactChoice1"
+                        name="buy" value="official" required>
+                    <label for="contactChoice1">в официальном магазине</label><br>
+
+                    <input type="radio" id="contactChoice2"
+                        name="buy" value="notofficial">
+                    <label for="contactChoice2">в неофициальном магазине</label><br>
+
+                    <input type="radio" id="contactChoice3"
+                        name="buy" value="nodata">
+                    <label for="contactChoice3">нет данных</label><br> 
+                </td>
+            </tr>
+
+            <tr>
+                 <!-- Часть 4. Сведения о заказе -->   
+                <td rowspan="3">
+                    <input type="checkbox" name="fast" id="fast">
+                    <label for="fast">Срочный заказ</label><br><br>
+
+                    День недели, удобный для оказания услуги:<br>
+                    <select name="day">
+                        <option>Понедельник</option>
+                        <option>Вторник</option>
+                        <option>Среда</option>
+                        <option>Четверг</option>
+                        <option>Пятница</option>
+                        <option>Суббота</option>
+                        <option>Воскресенье</option>
+                    </select>
+                </td>
+
+                <!-- Часть 5. Производство -->   
+                <td>
+                    Производство:<br>
+                    <input type="radio" id="contactChoice4"
+                        name="country" value="rus" required>
+                    <label for="contactChoice4">отечественное</label><br>
+
+                    <input type="radio" id="contactChoice5"
+                        name="country" value="norus">
+                    <label for="contactChoice5">импортное</label><br>
+                </td>
+            </tr>
+
+            <tr>
+                <!-- Часть 6. Связь -->
+                <td>
+                    <p>
+                        Тел.
+                        <input type="text" name="phone" required><br>
+                    </p>
+                    
+                    <p>
+                        E-mail
+                        <input type="text" name="email" required><br>
+                    </p>
+                    
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <!-- Часть 7. Кнопка отправить -->
+                    <div id="sendbutton">
+                        <input type="submit" name="send" value="Отправить">
+                    </div>
+                </td>
+                
+            </tr>
+
+        </table>
+        </form>
+    </body>
+
+</html>

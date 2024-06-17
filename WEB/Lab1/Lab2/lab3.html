@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang = "ru">
+    <head>
+        <title>
+            Пример
+        </title>
+        <meta charset="UTF-8">
+    </head>
+
+<body>
+<form action="lab3.php" method="post" enctype="multipart/form-data">
+    <input type="file" name="img" accept="image/jpeg,image/png,image/gif">
+    <input type="submit" value="Отправить"><br>
+    <p>
+        Для добавления на картинку текста заполните поля ниже
+    </p>
+    <p>
+        Текст
+        <input type="text" name="inputText"><br>
+    </p>
+    <p>
+        Размер текста
+        <input type="text" name="size"><br>
+    </p>
+    <p>
+        Координаты текста (х, у)
+        <input type="text" name="x">
+        <input type="text" name="y"><br>
+    </p>
+    <p>
+        Цвет текста
+        <select name="color">
+            <option>white</option>
+            <option>black</option>
+            <option>red</option>
+            <option>blue</option>
+            <option>lime</option>
+        </select>
+    </p>
+    <p>
+        Задний фон
+        <select name="background">
+            <option>No</option>
+            <option>Yes</option>
+        </select>
+    </p>
+
+</form>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+    
+    <head>
+
+        <meta charset="utf-8">
+		<title>А-07-19 Белоус Виктор Вариант 1</title>
+
+        <style>
+            
+            body{
+                width: 1000px;
+                height: 450px;  /* 100% от текущей высоты окна */
+                /*background-color: aqua;*/
+                background: linear-gradient(blue, pink);
+            }
+            table {
+                width: 400px; /* Ширина таблицы */
+                margin-top: 300px;
+                margin-left: 550px;
+                /*background: radial-gradient(red 10px, yellow 30%, #1e90ff 50%);*/
+            }
+            td {
+                text-align: center; /* Выравниваем текст по центру ячейки */
+            }
+        </style>
+
+    </head>
+
+    <body>
+        <!-- подключаем файл php-->
+        <form action="elogin.php" method="post">
+
+        <table>
+            <tr>
+                <th colspan="2">Ремонт офисной техники</th>
+            </tr>
+            <tr>
+                <td colspan="2"><p>Введите свой логин и пароль и нажмите кнопку <b>"Войти"</b></p></td>
+            </tr>
+            
+            <tr>
+                <td><b>Логин</b></td>
+                <td><input type="text" name="login" required></td>
+            </tr>
+            <tr>
+                <td><b>Пароль</b></td>
+                <td><input type="password" name="passwordD" required></td>
+            </tr>
+            <tr>
+                <td colspan="2"><p>Ещё не зарегистрированы? Придумайте логин и пароль и нажмите кнопку <b>"Зарегистрироваться"</b></p></td>
+            </tr>
+            <tr>
+                <td><input type="submit" name="entrance" value="Войти"></td>
+                <td><input type="submit" name="entrance" value="Зарегистрироваться"></td>
+            </tr>
+        </table>
+
+        </form>
+    </body>
+
+</html>
